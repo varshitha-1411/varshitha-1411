@@ -101,5 +101,11 @@ Passionate about learning Python and exploring development.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshitha-1411&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&layout=compact" alt="Top Languages" />
 </a>
 
+---
+
+### Quote to Remember
+
+> *"The expert in anything was once a beginner."*
+
 
  
