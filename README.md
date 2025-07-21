@@ -103,9 +103,9 @@ Passionate about learning Python and exploring development.
 
 ---
 
-### Quote to Remember
+## 💡 Inspirational Quote
 
-> *"The expert in anything was once a beginner."*
+> ✨ "The expert in anything was once a beginner" ✨
 
 
  
